@@ -1,0 +1,15 @@
+/Users/ewpiano/Documents/Coding/csharp/media-library/media-library/bin/Debug/net5.0/media-library.deps.json
+/Users/ewpiano/Documents/Coding/csharp/media-library/media-library/bin/Debug/net5.0/media-library.runtimeconfig.json
+/Users/ewpiano/Documents/Coding/csharp/media-library/media-library/bin/Debug/net5.0/media-library.runtimeconfig.dev.json
+/Users/ewpiano/Documents/Coding/csharp/media-library/media-library/bin/Debug/net5.0/media-library.dll
+/Users/ewpiano/Documents/Coding/csharp/media-library/media-library/bin/Debug/net5.0/ref/media-library.dll
+/Users/ewpiano/Documents/Coding/csharp/media-library/media-library/bin/Debug/net5.0/media-library.pdb
+/Users/ewpiano/Documents/Coding/csharp/media-library/media-library/obj/Debug/net5.0/media-library.csproj.AssemblyReference.cache
+/Users/ewpiano/Documents/Coding/csharp/media-library/media-library/obj/Debug/net5.0/media-library.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ewpiano/Documents/Coding/csharp/media-library/media-library/obj/Debug/net5.0/media-library.AssemblyInfoInputs.cache
+/Users/ewpiano/Documents/Coding/csharp/media-library/media-library/obj/Debug/net5.0/media-library.AssemblyInfo.cs
+/Users/ewpiano/Documents/Coding/csharp/media-library/media-library/obj/Debug/net5.0/media-library.csproj.CoreCompileInputs.cache
+/Users/ewpiano/Documents/Coding/csharp/media-library/media-library/obj/Debug/net5.0/media-library.dll
+/Users/ewpiano/Documents/Coding/csharp/media-library/media-library/obj/Debug/net5.0/ref/media-library.dll
+/Users/ewpiano/Documents/Coding/csharp/media-library/media-library/obj/Debug/net5.0/media-library.pdb
+/Users/ewpiano/Documents/Coding/csharp/media-library/media-library/obj/Debug/net5.0/media-library.genruntimeconfig.cache
