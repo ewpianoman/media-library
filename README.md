@@ -1,6 +1,6 @@
 # Media Library
 ## C\# Practice Project
-Creating a Media Library with classes that stores Audio Books, Albums, Books, eBooks, and Movies
+A C\# Console App Media Library with classes that stores Audio Books, Albums, Books, eBooks, and Movies
 ### Audio Books
 - Title
 - Author
