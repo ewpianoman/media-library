@@ -5,11 +5,11 @@ namespace Pianoman.MediaLibrary
       public string Title;
       public string Director;
       public string ReleaseDate;
-      public string[] Actors;
-      public string[] Producers;
+      public string Actors;
+      public string Producers;
       public string Editor;
       public string Studio;
       public string Genre;
-      public double Length;
+      public string Length;
     }
 }
