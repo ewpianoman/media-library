@@ -5,7 +5,7 @@ A C\# Console App Media Library with classes that stores Audio Books, Albums, Bo
 - Title
 - Author
 - Publisher
-- Publisher Date
+- Publish Date
 - Length
 - Format
 - Genre
