@@ -2,11 +2,15 @@ namespace Pianoman.MediaLibrary
 {
     class Album
     {
-      public string Title;
-      public string Artist;
-      public string ReleaseDate;
-      public string Label;
-      public string Format;
-      public string Genre;
+      public readonly string Title;
+      public readonly string Artist;
+      public readonly string Genre;
+
+      public Album(string title, string artist, string genre)
+      {
+        Title = title;
+        Artist = artist;
+        Genre = genre;
+      }
     }
 }
